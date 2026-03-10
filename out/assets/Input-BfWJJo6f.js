@@ -1,0 +1,2 @@
+import{j as e}from"./index-CUhp28tC.js";function l({label:t,error:s,className:r="",...n}){return e.jsxs("div",{className:"w-full",children:[t&&e.jsx("label",{className:"block text-sm font-medium text-gray-700 mb-1.5",children:t}),e.jsx("input",{className:`w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent ${s?"border-red-500":""} ${r}`,...n}),s&&e.jsx("p",{className:"mt-1 text-sm text-red-600",children:s})]})}export{l as I};
+//# sourceMappingURL=Input-BfWJJo6f.js.map
